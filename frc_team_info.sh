@@ -12,7 +12,7 @@
 name="https://www.thebluealliance.com"
 apiVersion="v2"
 
-authString="frc1257:challengeapp:1beta"
+authString="mc42atgithub:testcode:1scr"
 
 outputPath="./first_data/"
 outputFile=$1$2
